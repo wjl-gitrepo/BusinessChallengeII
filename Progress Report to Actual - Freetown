@@ -1,0 +1,110 @@
+Predicted_Freetown1
+Classification Report:
+               precision    recall  f1-score   support
+
+        High       0.35      0.02      0.04      5087
+         Low       0.35      0.50      0.41      3018
+      Medium       0.46      0.74      0.57      6000
+
+    accuracy                           0.43     14105
+   macro avg       0.39      0.42      0.34     14105
+weighted avg       0.40      0.43      0.34     14105
+
+F1 Score: 0.34
+
+
+Per-Class Breakdown:
+----------------------------------------
+
+Class: High
+  True Positives : 97
+  False Positives: 180
+  False Negatives: 4990
+  True Negatives : 8838
+
+Class: Medium
+  True Positives : 4415
+  False Positives: 5122
+  False Negatives: 1585
+  True Negatives : 2983
+
+Class: Low
+  True Positives : 1516
+  False Positives: 2775
+  False Negatives: 1502
+  True Negatives : 8312
+Chase Kusterer , Apr 23 at 11:11am
+Predicted_Freetown3
+Classification Report:
+               precision    recall  f1-score   support
+
+        High       0.32      0.37      0.34      5087
+         Low       0.42      0.57      0.48      3018
+      Medium       0.35      0.25      0.29      6000
+
+    accuracy                           0.36     14105
+   macro avg       0.36      0.39      0.37     14105
+weighted avg       0.36      0.36      0.35     14105
+
+F1 Score: 0.37
+
+
+Per-Class Breakdown:
+----------------------------------------
+
+Class: High
+  True Positives : 1857
+  False Positives: 3906
+  False Negatives: 3230
+  True Negatives : 5112
+
+Class: Medium
+  True Positives : 1473
+  False Positives: 2707
+  False Negatives: 4527
+  True Negatives : 5398
+
+Class: Low
+  True Positives : 1732
+  False Positives: 2430
+  False Negatives: 1286
+  True Negatives : 8657
+Chase Kusterer , Apr 23 at 11:13am
+Predicted_Freetown2
+Classification Report:
+               precision    recall  f1-score   support
+
+        High       0.30      0.02      0.03      5087
+         Low       0.37      0.35      0.36      3018
+      Medium       0.45      0.82      0.58      6000
+
+    accuracy                           0.43     14105
+   macro avg       0.37      0.39      0.32     14105
+weighted avg       0.38      0.43      0.33     14105
+
+F1 Score: 0.32
+
+
+Per-Class Breakdown:
+----------------------------------------
+
+Class: High
+  True Positives : 78
+  False Positives: 178
+  False Negatives: 5009
+  True Negatives : 8840
+
+Class: Medium
+  True Positives : 4924
+  False Positives: 6122
+  False Negatives: 1076
+  True Negatives : 1983
+
+Class: Low
+  True Positives : 1046
+  False Positives: 1757
+  False Negatives: 1972
+  True Negatives : 9330
+
+===============================================================================
+UPDATED MODEL 4.0 --> April 23rd, 2026
